@@ -1,0 +1,102 @@
+Nome:ALEXANDRE FERREIRA DA COSTA                  
+Salario:24.148,33
+Nome:ALEXANDRINA MARIA NOGUEIRA GUERRA ADORNO           
+Salario:20.429,58
+Nome:ANDRE CARLOS SILVA                      
+Salario:24.395,37
+Nome:ANTONIO MARTINS FILHO                     
+Salario:20.881,74
+Nome:APOSTOLO FERREIRA MARTINS                   
+Salario:20.225,29
+Nome:ARNALDO BASTOS SANTOS NETO                  
+Salario:21.878,14
+Nome:CACILDA PEDROSA DE OLIVEIRA                  
+Salario:23.718,25
+Nome:CARLITO LARIUCCI                       
+Salario:20.248,23
+Nome:CELENE CUNHA MONTEIRO A BARREIRA               
+Salario:20.624,33
+Nome:CLACI FATIMA WEIRICH ROSSO                  
+Salario:28.186,99
+Nome:CLEUSA ALVES MARTINS                     
+Salario:24.400,76
+Nome:DENISE MILIOLI FERREIRA                    
+Salario:22.122,93
+Nome:ELIANA ISAC                          
+Salario:24.802,44
+Nome:ELIANE LEAO                          
+Salario:24.503,99
+Nome:ELSON GONCALVES DE ANDRADE                  
+Salario:28.554,49
+Nome:GLACY ODETE RACHID BOTELHO                  
+Salario:27.591,33
+Nome:HELVIO MARTINS GERVASIO                    
+Salario:22.183,85
+Nome:JESUS CARLOS DA MOTA                     
+Salario:21.862,86
+Nome:JOHNATHAN SANTANA DE FREITAS                 
+Salario:22.944,87
+Nome:JOSE MIGUEL DE DEUS                      
+Salario:33.668,57
+Nome:JOSE MIGUEL DE DEUS                      
+Salario:33.668,57
+Nome:JOSE VALDO ABREU GONCALVES                  
+Salario:23.671,82
+Nome:JUSSARA ROCHA FERREIRA                    
+Salario:23.671,82
+Nome:KLEBER FERNANDO PEREIRA                    
+Salario:21.780,76
+Nome:LARA STEFANIA NETTO DE OLIVEIRA LEAO VASCONCELOS       
+Salario:20.725,28
+Nome:LORENA DALL ARA GUIMARAES                   
+Salario:23.728,77
+Nome:LUIZ CARLOS FALCONI                      
+Salario:20.539,26
+Nome:MARA REIS SILVA                        
+Salario:25.106,04
+Nome:MARCIANO DE SOUSA NOBREGA                   
+Salario:23.295,84
+Nome:MARCIO RODRIGUES COSTA                    
+Salario:39.031,47
+Nome:MARIA CONCEICAO DE CASTRO ANTONELLI MONTEIRO DE QUEIROZ    
+Salario:23.569,76
+Nome:MARIA GERALDA DE ALMEIDA                   
+Salario:27.710,73
+Nome:MARIA HELENA TAVARES VILELA                  
+Salario:21.679,24
+Nome:MARIA LUIZA FERREIRA STRINGHINI                
+Salario:21.359,81
+Nome:MARIA SELMA NEVES DA COSTA                  
+Salario:21.327,14
+Nome:NATHALIE DE LOURDES SOUZA DEWULF               
+Salario:20.282,73
+Nome:NEUSA MARIA MARQUES DE SOUZA                 
+Salario:22.825,36
+Nome:OLIZIO CLAUDINO DA SILVA                   
+Salario:21.383,98
+Nome:ORLANDO AFONSO VALLE DO AMARAL                
+Salario:24.520,61
+Nome:OSCAR BARROSO VITORINO                    
+Salario:22.604,61
+Nome:PAULO ALCANFOR XIMENES                    
+Salario:20.417,39
+Nome:PAULO MARCAL FERNANDES                    
+Salario:23.286,68
+Nome:RENZO FREIRE DE ALMEIDA                    
+Salario:21.663,64
+Nome:ROMAO DA CUNHA NUNES                     
+Salario:24.483,01
+Nome:RONEI GOULART DE OLIVEIRA                   
+Salario:22.541,35
+Nome:SAULO BRUNO SILVEIRA E SOUZA                 
+Salario:23.697,03
+Nome:SHIRLEI SERCONEK                       
+Salario:24.006,19
+Nome:SILVANA DE LIMA VIEIRA DOS SANTOS               
+Salario:20.432,72
+Nome:VILMA FERREIRA DE OLIVEIRA                  
+Salario:24.164,94
+Nome:WILSON CLEITON DA SILVEIRA                  
+Salario:22.162,53
+Nome:WILSON MOISES OLIVEIRA MARTINS                
+Salario:21.045,95
